@@ -11,7 +11,8 @@ html{
 
 /*Test Code*/
 
-body {
+body:before {
+	content: "";
 	display: block;
 	position: fixed;
   	left: 0;
@@ -211,5 +212,4 @@ border: 2px double;
 	color: #DE9600;
 	transition: color 1s;
 }
-
 
