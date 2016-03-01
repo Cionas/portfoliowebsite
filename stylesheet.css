@@ -1,6 +1,4 @@
-a:link,a:visited,a:active,a:hover{
-text-decoration:none;
-}
+
 
 body{
 
@@ -200,11 +198,5 @@ border: 2px double;
 
 	text-decoration: none;
 	color: white;
-}
-
-.footer a:active{
-
-	color: white;
-	text-decoration: none;
 }
 
