@@ -70,7 +70,7 @@ $(document).ready(function(){
 		$(document).scroll(function(){
 
 		var x = $(this).scrollTop();
-		if (x > 800 && x < 1600){
+		if (x > 800){
 
 			$('#ab1').fadeIn();
 		}
@@ -83,7 +83,7 @@ $(document).ready(function(){
 		$(document).scroll(function(){
 
 		var x = $(this).scrollTop();
-		if (x > 800 && x < 1600){
+		if (x > 800){
 
 			$('#ab2').fadeIn();
 		}
@@ -96,7 +96,7 @@ $(document).ready(function(){
 			$(document).scroll(function(){
 
 		var x = $(this).scrollTop();
-		if (x > 1600 && x < 2400){
+		if (x > 1600){
 
 			$('#exp').fadeIn();
 		}
