@@ -181,7 +181,7 @@ border: 2px double;
 	color: white;
 }
 
-.footer a:link{
+.footer a:link, a:visited{
 
 	text-decoration: none;
 	color: white;
@@ -194,9 +194,4 @@ border: 2px double;
 	transition: color 1s;
 }
 
-.footer a:visited{
-
-	text-decoration: none;
-	color: white;
-}
 
