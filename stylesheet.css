@@ -197,10 +197,10 @@ border: 2px double;
 	transition: color 1s;
 }
 
-.hero #cafe { background-image: url("../img/candc970.jpg"); }
+
 
 @media only screen and (max-width: 320px) {
-    .hero #cafe { background-image: url("images/Header.jpg"); }
+    body { background-image: url("images/Header.jpg"); }
 }
 @media
 only screen and (min-resolution: 2dppx) and (max-width: 320px) {
