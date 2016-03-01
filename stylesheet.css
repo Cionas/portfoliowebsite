@@ -1,4 +1,3 @@
-
 html{
 
 	width: 100%;
@@ -213,3 +212,8 @@ border: 2px double;
 	transition: color 1s;
 }
 
+.footer img{
+
+	height: 28px;
+	width: 28px;
+}
