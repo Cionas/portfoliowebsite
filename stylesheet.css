@@ -13,7 +13,7 @@ body{
 
 	margin: 0px;
 	background: url(images/Header.jpg) no-repeat center center fixed;
-	background-size: cover;
+	background-size: 100% 100%;
 
 
 }
