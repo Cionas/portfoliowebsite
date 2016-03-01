@@ -11,8 +11,7 @@ html{
 
 /*Test Code*/
 
-body:before {
-	content: "";
+body {
 	display: block;
 	position: fixed;
   	left: 0;
@@ -211,5 +210,12 @@ border: 2px double;
 	text-decoration: none;
 	color: #DE9600;
 	transition: color 1s;
+}
+
+.footer img{
+
+	height:28px;
+	width: 28px;
+
 }
 
