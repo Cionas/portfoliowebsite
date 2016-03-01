@@ -196,3 +196,7 @@ border: 2px double;
 	color: #DE9600;
 	transition: color 1s;
 }
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+	background: url(images/Header.jpg) no-repeat center center fixed;
+}
