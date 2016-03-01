@@ -1,3 +1,4 @@
+
 html{
 
 	width: 100%;
@@ -10,8 +11,7 @@ html{
 
 /*Test Code*/
 
-body:before {
-	content: "";
+body {
 	display: block;
 	position: fixed;
   	left: 0;
@@ -70,6 +70,7 @@ h1{
 	left: 50%;
 	margin-left: -100px;
 	z-index: 1;
+	width: 50%;
 }
 
 .nav a:link{
@@ -212,9 +213,3 @@ border: 2px double;
 	transition: color 1s;
 }
 
-.footer img{
-
-	height: 28px;
-	width: 28px;
-	display: inline-block;
-}
