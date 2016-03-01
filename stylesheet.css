@@ -54,13 +54,14 @@ h1{
 
 	padding-top: 125px;
 	color: white;
+	font-size: 50px;
 
 }
 
 .header p{
 
 	color: white;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 .nav{
@@ -115,6 +116,7 @@ h1{
 
 	text-align: center;
 	color: white;
+	padding-top:100px;
 
 }
 
@@ -154,6 +156,7 @@ padding: 10px;S
 
 	text-align: center;
 	color: white;
+	padding-top: 100px;
 
 }
 
@@ -176,8 +179,25 @@ padding: 10px;S
 
 	text-align: center;
 	color: white;
+	padding-top: 100px;
 
 }
+
+.project h3{
+
+	text-align: center;
+	color: white;
+	margin-bottom: 50px;
+
+}
+
+.project img{
+
+	margin-top: 50px;
+
+}
+
+
 
 .footer{
 
@@ -188,6 +208,7 @@ padding: 10px;S
 	position:fixed;
 	bottom: 0;
 	border: solid 1px;
+	color: white;
 
 }
 
@@ -211,7 +232,8 @@ padding: 10px;S
 
 .footer img{
 
-	height: 28px;
-	width: 28px;
+	height: 40px;
+	width: 40px;
 	display: inline-block;
+	margin-top: -15px;
 }
