@@ -1,0 +1,196 @@
+body{
+
+	margin: 0px;
+	background: url(images/Header.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+p{
+
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+
+	font-family: 'Montserrat', 'sans-serif';
+}
+
+.header{
+
+	height: 100%;
+	
+	
+}
+
+.header .container .name{
+
+	left: 10%;
+	position: absolute;
+
+}
+
+.header h1{
+
+	padding-top: 125px;
+	color: white;
+
+}
+
+.header p{
+
+	color: white;
+	font-size: 20px;
+}
+
+.nav{
+	text-align: center;
+	position: fixed;
+	top: 5%;
+	left: 50%;
+	margin-left: -100px;
+	z-index: 1;
+}
+
+.nav a{
+
+	text-decoration: none;
+	font-family: 'Montserrat', 'sans-serif';
+	color:	white;
+}
+
+.nav a:hover{
+
+	color:	#DE9600;
+	transition: color 1s;
+	text-decoration: none;
+}
+
+.nav a:active{
+
+	text-decoration: none;
+}
+
+.nav a:visited{
+
+	text-decoration: none;
+}
+
+.nav ul{
+
+
+}
+
+.nav ul li{
+
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding-left: 80px;
+}
+
+.about{
+
+	height: 100%;
+	margin-bottom: -20px;
+}
+
+.about h1{
+
+	text-align: center;
+	color: white;
+
+}
+
+.about .row p{
+
+background: rgba(128, 128, 128, 0.9);
+font-size: 20px;
+color: white;
+padding: 10px;
+border: 2px double;
+
+}
+
+.about .ab1{
+
+	padding-top: 50px;
+}
+
+.about .ab2{
+
+	padding-top: 200px;
+}
+
+.about img{
+
+	height: 50%;
+	width: 90%;
+	margin-top: 100px;
+	border: 2px solid black;
+}
+
+.resume{
+
+	height:100%;
+	margin-bottom: -20px;
+}
+
+.resume h1{
+
+	text-align: center;
+	color: white;
+
+}
+
+.resume .exp{
+
+	background: rgba(128, 128, 128, 0.8);
+	color:white;
+	border: 2px double;
+	margin-top: 100px;
+}
+
+.project{
+
+	height: 100%;
+	margin-bottom: -20px;
+}
+
+.project h1{
+
+	text-align: center;
+	color: white;
+
+}
+
+.footer{
+
+	height: 150px;
+	width: 20%;
+	background: rgba(128, 128, 128, 0.5);
+	display: none;
+	position:fixed;
+	bottom: 0;
+	border: solid 1px;
+
+}
+
+.footer h3{
+
+	color: white;
+}
+
+.footer a{
+
+	text-decoration: none;
+	color: white;
+}
+
+.footer a:hover{
+
+	text-decoration: none;
+	color: #DE9600;
+	transition: color 1s;
+}
+
