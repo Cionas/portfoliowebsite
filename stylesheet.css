@@ -253,6 +253,11 @@ padding: 10px;S
 	transition: color 1s;
 }
 
+.spacer{
+
+	padding:50px;
+}
+
 .footer img{
 
 	height: 40px;
